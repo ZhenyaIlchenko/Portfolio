@@ -7,18 +7,18 @@
   font-size: 32px;
   line-height: 1.19;
   // display: flex;
-  // align-items: center;
+  align-items: center;
 }
 
 .skillset_text {
   margin-top: 16px;
-  margin-bottom: 21px;
+  // margin-bottom: 21px;
 
   font-weight: 400;
   font-size: 18px;
   line-height: 1.5;
   // display: flex;
-  // align-items: center;
+  align-items: center;
   color: var(--lightGrey);
 }
 
@@ -34,7 +34,7 @@
   font-size: 24px;
   line-height: 1.5;
   // display: flex;
-  // align-items: center;
+  align-items: center;
 }
 
 .skillset_text-details {
@@ -42,11 +42,12 @@
   font-size: 16px;
   line-height: 1.5;
   // display: flex;
-  // align-items: center;
+  align-items: center;
   color: var(--lightGrey);
 }
 .skillset_list {
   margin-top: 64px;
+  // display: flex;
 }
 .skillset_icon {
   width: 180px;
