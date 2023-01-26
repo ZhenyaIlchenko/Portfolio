@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://ZhenyaIlchenko.github.io/Portfolio",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build src/*.html --public-url /Portfolio/"
+  },
+  "author": "Zhenya Ilchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "posthtml-include": "^1.7.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
