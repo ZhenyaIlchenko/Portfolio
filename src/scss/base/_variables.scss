@@ -1,13 +1,32 @@
-:root {
-  --base: #000000;
-  --second-text-color: #181823;
-  --lightGrey: #8491a0;
-  --darkGrey: #5b6876;
-  --text: #ffffff;
-  --primary: #5221e6;
-  --greenAccent: #3cc74e;
-  --blueAccent: #609bff;
-  --pinkAccent: #e95d90;
-  --peachAccent: #fff3e4;
-  --violetAccent: #fbe4ff;
-}
+// :root {
+//   --base: #000000;
+//   --second-text-color: #181823;
+//   --lightGrey: #8491a0;
+//   --darkGrey: #5b6876;
+//   --text: #ffffff;
+//   --primary: #5221e6;
+//   --greenAccent: #3cc74e;
+//   --blueAccent: #609bff;
+//   --pinkAccent: #e95d90;
+//   --peachAccent: #fff3e4;
+//   --violetAccent: #fbe4ff;
+// }
+
+$base-bg-color: #000000;
+$second-bg-color: #181823;
+$base-text-color: #ffffff;
+$light-grey-text-color: #8491a0;
+$dark-grey-text-color: #5b6876;
+$btn-border-color: #5221e6;
+
+$body-bg: $base-bg-color;
+$body-color: $light-grey-text-color;
+
+$font-family-sans-serif:"Sen";
+
+$headings-font-weight: 700;
+$headings-color: $base-text-color;
+$h3-font-size:24px;
+
+$card-border-width: none;
+
