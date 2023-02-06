@@ -22,11 +22,56 @@ $btn-border-color: #5221e6;
 $body-bg: $base-bg-color;
 $body-color: $light-grey-text-color;
 
-$font-family-sans-serif:"Sen";
+$font-family-sans-serif:"Sen", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+// $font-size-base:              1rem !default;
+// $font-weight-base:            $font-weight-normal !default;
+// $font-weight-normal:          400 !default;
+// $line-height-base:            1.5 !default;
 
 $headings-font-weight: 700;
 $headings-color: $base-text-color;
 $h3-font-size:24px;
 
+// $headings-margin-bottom:      $spacer * .5 !default;
+// $headings-font-family:        null !default;
+// $headings-font-style:         null !default;
+// $headings-font-weight:        500 !default;
+// $headings-line-height:        1.2 !default;
+// $headings-color:              null !default;
+
+// $h1-font-size:                $font-size-base * 2.5 !default;
+// $h2-font-size:                $font-size-base * 2 !default;
+// $h3-font-size:                $font-size-base * 1.75 !default;
+// $h4-font-size:                $font-size-base * 1.5 !default;
+// $h5-font-size:                $font-size-base * 1.25 !default;
+// $h6-font-size:                $font-size-base !default;
+
 $card-border-width: none;
 
+// $border-width:                1px !default;
+// $border-widths: (
+  //   1: 1px,
+  //   2: 2px,
+  //   3: 3px,
+  //   4: 4px,
+  //   5: 5px
+  // ) !default;
+  
+  // $border-style:                solid !default;
+  // $border-color:                $gray-300 !default;
+
+
+  // $btn-padding-y:               $input-btn-padding-y;  !=.375rem!
+  // $btn-padding-x:               $input-btn-padding-x;  !=.75rem!
+  // $btn-font-family:             $input-btn-font-family  !=null;
+  // $btn-font-size:               $input-btn-font-size  !=$font-size-base=1rem;
+  // $btn-line-height:             $input-btn-line-height  !=$line-height-base=1.5;
+  // $btn-white-space:             null !default;
+  // $btn-border-width:            $input-btn-border-width  !=$border-width=1px;
+  // $btn-font-weight:             $font-weight-normal !=400 normal;
+  // $btn-transition:              color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out !default;
+// $border-color-translucent:    rgba($black, .175) !default;
+
+
+// $paragraph-margin-bottom:   1rem !default;
