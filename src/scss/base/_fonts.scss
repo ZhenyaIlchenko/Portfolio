@@ -3,10 +3,13 @@
   font-style: normal;
   font-weight: 400;
   src: local('Sen'), url('../fonts/sen-v7-latin-regular.woff2') format('woff2');
+  font-display: swap;
 }
+
 @font-face {
   font-family: 'Sen';
   font-style: normal;
   font-weight: 700;
   src: local('Sen'), url('../fonts/sen-v7-latin-700.woff2') format('woff2');
+  font-display: swap;
 }
