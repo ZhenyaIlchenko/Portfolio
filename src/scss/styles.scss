@@ -36,6 +36,9 @@
 @import "./node_modules/bootstrap/scss/utilities/api";
 
 // 8. Add additional custom code here
-@import './base/common';
+
 @import './base/fonts';
+@import './components/section';
+@import './components/_section-label';
+@import './components/_section-title';
 @import './layout/work';
