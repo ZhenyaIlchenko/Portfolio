@@ -18,6 +18,9 @@ $base-text-color: #ffffff;
 $light-grey-text-color: #8491a0;
 $dark-grey-text-color: #5b6876;
 $btn-border-color: #5221e6;
+$accent-green: #3cc74e;
+$accent-blue: #609bff;
+$accent-pink: #e95d90;
 
 $body-bg: $base-bg-color;
 $body-color: $light-grey-text-color;
@@ -75,3 +78,17 @@ $card-border-width: none;
 
 
 // $paragraph-margin-bottom:   1rem !default;
+
+// $btn-transition:              color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out !default;
+// $transition-base:             all .2s ease-in-out !default;
+
+
+// $grid-gutter-width: 1.5rem;
+// $gutters: (
+//   0: 0,
+//   1: $spacer * .25,
+//   2: $spacer * .5,
+//   3: $spacer,
+//   4: $spacer * 1.5,
+//   5: $spacer * 3,
+// );
