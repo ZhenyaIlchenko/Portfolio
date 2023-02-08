@@ -1,0 +1,50 @@
+.expr-number {
+  font-size: 117px;
+  line-height: 1.2;
+  margin-bottom: 0px;
+  // display: flex;
+  // align-items: center;
+}
+
+.expr-info {
+  margin-bottom: 16px;
+
+  font-weight: 700;
+  font-size: 24px;
+  // display: flex;
+  // align-items: center;
+  color: $base-text-color;
+}
+
+.expr-link{
+  text-decoration: none;
+  // font-weight: 700;
+  // font-size: 24px;
+  // line-height: 1.2;
+}
+
+.expr-link:hover,
+.expr-link:focus {
+  color: $btn-border-color;
+}
+
+.link-G {
+  color: $accent-green;
+}
+
+.link-F {
+  color: $accent-blue;
+}
+
+.link-D {
+  color: $accent-pink;
+}
+
+.expr-text {
+  // font-weight: 400;
+  // font-size: 16px;
+  // line-height: 1.5;
+  // display: flex;
+  // align-items: center;
+  margin-bottom: 0px;
+}
