@@ -13,19 +13,19 @@
 //   text-transform: uppercase;
 // }
 
-.section-title {
-  margin-top: 8px;
-  margin-bottom: 80px;
+// .section-title {
+//   margin-top: 8px;
+//   margin-bottom: 80px;
   
-  // font-size: 32px;
-  line-height: 1.2;
-  // display: flex;
-  // align-items: center;
+//   // font-size: 32px;
+//   line-height: 1.2;
+//   // display: flex;
+//   // align-items: center;
 
-  @media (min-width: 768px){
-    font-size: 55px;
-  }
-}
+//   @media (min-width: 768px){
+//     font-size: 55px;
+//   }
+// }
 
 .work-cards {
   margin-bottom: 45px;
@@ -61,7 +61,6 @@
   font-size: 18px;
 // line-height: 1.5;
 text-transform: uppercase;
-// background-color: $base-bg-color;
 color: $base-text-color;
 border-color: $btn-border-color;
 }
