@@ -1,0 +1,15 @@
+// .header-nav-link:hover
+// .header-nav-link:focus {
+//   background-color: $btn-border-color;
+// }
+.logo {
+  font-weight: 700;
+    font-size: 20px;
+    line-height: 1.16;
+  
+    color: $base-text-color;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    text-decoration: none;
+}
