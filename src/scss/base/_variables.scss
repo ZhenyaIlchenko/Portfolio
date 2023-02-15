@@ -93,3 +93,7 @@ $card-border-width: none;
 //   4: $spacer * 1.5,
 //   5: $spacer * 3,
 // );
+
+$nav-link-color: $base-text-color;                  
+$nav-link-hover-color: $btn-border-color;  
+$nav-link-transition:               color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out !default;
