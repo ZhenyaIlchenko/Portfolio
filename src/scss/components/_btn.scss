@@ -1,0 +1,16 @@
+.portf-btn {
+  // width: 247px;
+  // height: 75px;
+  padding: 24px 32px;
+  font-weight: 700;
+  font-size: 18px;
+// line-height: 1.5;
+text-transform: uppercase;
+color: $base-text-color;
+border-color: $btn-border-color;
+}
+.work-btn:hover,
+.work-btn:focus {
+  background-color: $btn-border-color;
+  border-color: $btn-border-color;
+}
