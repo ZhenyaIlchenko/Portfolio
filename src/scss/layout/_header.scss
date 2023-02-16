@@ -10,7 +10,30 @@
 // }
 // .header {
 //   position: fixed;
+//   top:0;
+//   left:0;
 // }
-// .header-nav-link {
-//   display: block;
-// }
+
+.nav-list {
+  display: none;
+
+  @media (min-width: 768px) {
+		display: flex;
+	}
+}
+
+
+.menu-open {
+  width: 24px;
+  height: 24px;
+  border: none;
+  background-image: url(/src/images/mob-menu-btn.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: auto;
+  
+  @media (min-width: 768px) {
+    display: none;
+  }
+}
+
